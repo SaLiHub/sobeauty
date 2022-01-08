@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/sobeauty/static/css/main.ffd3492f.chunk.css",
+    "main.js": "/sobeauty/static/js/main.160e97e3.chunk.js",
+    "main.js.map": "/sobeauty/static/js/main.160e97e3.chunk.js.map",
+    "runtime-main.js": "/sobeauty/static/js/runtime-main.a4647395.js",
+    "runtime-main.js.map": "/sobeauty/static/js/runtime-main.a4647395.js.map",
+    "static/css/2.d44ba314.chunk.css": "/sobeauty/static/css/2.d44ba314.chunk.css",
+    "static/js/2.f6684d00.chunk.js": "/sobeauty/static/js/2.f6684d00.chunk.js",
+    "static/js/2.f6684d00.chunk.js.map": "/sobeauty/static/js/2.f6684d00.chunk.js.map",
+    "static/js/3.f4170724.chunk.js": "/sobeauty/static/js/3.f4170724.chunk.js",
+    "static/js/3.f4170724.chunk.js.map": "/sobeauty/static/js/3.f4170724.chunk.js.map",
+    "index.html": "/sobeauty/index.html",
+    "static/css/2.d44ba314.chunk.css.map": "/sobeauty/static/css/2.d44ba314.chunk.css.map",
+    "static/css/main.ffd3492f.chunk.css.map": "/sobeauty/static/css/main.ffd3492f.chunk.css.map",
+    "static/js/2.f6684d00.chunk.js.LICENSE.txt": "/sobeauty/static/js/2.f6684d00.chunk.js.LICENSE.txt",
+    "static/media/Order.scss": "/sobeauty/static/media/arrow_right.f7c6ac6d.svg",
+    "static/media/all.min.css": "/sobeauty/static/media/fa-solid-900.eeccf4f6.woff",
+    "static/media/slide.0e7e1b23.jpg": "/sobeauty/static/media/slide.0e7e1b23.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4647395.js",
+    "static/css/2.d44ba314.chunk.css",
+    "static/js/2.f6684d00.chunk.js",
+    "static/css/main.ffd3492f.chunk.css",
+    "static/js/main.160e97e3.chunk.js"
+  ]
+}
